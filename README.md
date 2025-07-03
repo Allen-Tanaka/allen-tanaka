@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allen-tanaka" alt="allen-tanaka" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/king_tongaa" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/king_tongaa?logo=twitter&style=for-the-badge" alt="https://x.com/king_tongaa" /></a> </p>
+<p align="left"> <a href="https://x.com/king_tongaa" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/king_tongaa?logo=twitter&style=for-the-badge" alt="https://x.com/king_tongaa" /></a> </p>
 
 - 🔭 I’m currently working on [iCODE web app](icodeglobe.com)
 
